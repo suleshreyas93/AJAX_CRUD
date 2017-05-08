@@ -1,0 +1,17 @@
+{
+  "name": "ajax_api_tutorial",
+  "version": "1.0.0",
+  "description": "CRUD operations with ajax",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreyas Sule",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0"
+  }
+}
